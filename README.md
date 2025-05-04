@@ -34,6 +34,7 @@
 | 网站名 | 网址 | 网站简介 |
 | :--- | :---: | :---: |
 | gameai | https://app.gamedevassistant.com/profile | godot的ai编程工具 |
+| 游戏服务器端 | https://heroiclabs.com/ | 用golang语言构建服务器端 |
 | Behind the Name | https://www.behindthename.com/ | 一个收集姓名与背后词源来历的网站，方便设定与起名 |
 | 身長比較したった一 | https://hikaku-sitatter.com/ | 输入身高数据进行直观对比的网站,便于美术绘制人物时使用 |
 | 草料二维码生成器 | https://cli.im/ | 生成二维码的网站,可以将社媒链接二维码化方便玩家扫描 |
